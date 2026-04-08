@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
-import 'package:image_picker/image_picker.dart';
+
 import '../../../../core/theme/app_theme.dart';
 import '../../../../core/constants/app_config.dart';
 
